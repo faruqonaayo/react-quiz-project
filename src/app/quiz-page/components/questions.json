@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High-Level Text Management Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": ["Python", "Java", "HTML", "C++"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the purpose of CSS in web development?",
+    "options": [
+      "To add interactivity to a webpage",
+      "To structure the content of a webpage",
+      "To style the appearance of a webpage",
+      "To connect the webpage to a database"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does 'API' stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Integration",
+      "Application Performance Indicator",
+      "Automated Process Integration"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is used for version control?",
+    "options": ["Git", "Docker", "Jenkins", "Kubernetes"],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is a function in programming?",
+    "options": [
+      "A container for storing data",
+      "A block of code designed to perform a specific task",
+      "A type of error in the code",
+      "A condition used in loops"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which programming language is primarily used for Android development?",
+    "options": ["Swift", "Java", "Ruby", "PHP"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does the 'var' keyword do in JavaScript?",
+    "options": [
+      "Declares a variable with global or function scope",
+      "Declares a block-scoped variable",
+      "Declares a constant variable",
+      "Creates a loop"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the main purpose of unit testing?",
+    "options": [
+      "To test the entire application as a whole",
+      "To test individual components or functions of an application",
+      "To check for user interface errors",
+      "To deploy the application"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which programming language is known as 'write once, run anywhere'?",
+    "options": ["Java", "C++", "Python", "JavaScript"],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the result of 3 + '3' in JavaScript?",
+    "options": ["6", "33", "NaN", "Error"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What does the term 'debugging' refer to?",
+    "options": [
+      "Writing code",
+      "Testing code",
+      "Fixing errors in code",
+      "Deploying code"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of these is a front-end JavaScript framework?",
+    "options": ["Django", "Angular", "Flask", "Laravel"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the default port for HTTP?",
+    "options": ["443", "80", "22", "8080"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of these is not an OOP concept?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation", "Recursion"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Server Query Language"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which method is used to add an element to the end of an array in JavaScript?",
+    "options": ["push()", "pop()", "unshift()", "shift()"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which protocol is used to send email?",
+    "options": ["HTTP", "SMTP", "FTP", "IMAP"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which symbol is used to comment a single line in Python?",
+    "options": ["//", "#", "/* */", "--"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which language is used for data analysis and machine learning?",
+    "options": ["PHP", "Ruby", "R", "HTML"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of the following is a dynamically typed language?",
+    "options": ["Java", "C", "Python", "C++"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'return' statement in a function?",
+    "options": [
+      "To end a loop",
+      "To exit a program",
+      "To specify the output of the function",
+      "To declare a variable"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of the following is not a relational database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the full form of JSON?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Simple Object Notation",
+      "JavaScript Operational Node",
+      "Java Syntax Object Node"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What does 'DOM' stand for in web development?",
+    "options": [
+      "Data Object Model",
+      "Document Object Model",
+      "Document Operational Mode",
+      "Direct Object Management"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the primary purpose of a firewall?",
+    "options": [
+      "To secure the codebase",
+      "To optimize database queries",
+      "To block unauthorized access",
+      "To format network packets"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which of the following is not a cloud platform?",
+    "options": ["AWS", "Azure", "Google Cloud", "TensorFlow"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'mkdir' command in Linux?",
+    "options": [
+      "To create a new directory",
+      "To move a file",
+      "To delete a directory",
+      "To change the directory"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the primary use of the 'SELECT' statement in SQL?",
+    "options": [
+      "To modify data",
+      "To retrieve data",
+      "To delete data",
+      "To insert data"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of these is a compiled language?",
+    "options": ["Python", "JavaScript", "C", "Ruby"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'git clone' command?",
+    "options": [
+      "To copy a repository from a remote server",
+      "To save changes in the local repository",
+      "To delete a repository",
+      "To create a new branch"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What does 'CI/CD' stand for?",
+    "options": [
+      "Continuous Integration/Continuous Delivery",
+      "Code Implementation/Code Debugging",
+      "Code Integrity/Continuous Deployment",
+      "Code Innovation/Continuous Development"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which HTML tag is used to include JavaScript code?",
+    "options": ["<script>", "<js>", "<code>", "<style>"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these sorting algorithms has the best average case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Selection Sort",
+      "Insertion Sort"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What does the 'this' keyword represent in object-oriented programming?",
+    "options": [
+      "The global context",
+      "The current object",
+      "A new instance of an object",
+      "A parent class"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which command is used to list all files in a directory in Linux?",
+    "options": ["ls", "cd", "pwd", "rm"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is a state management library for React?",
+    "options": ["Redux", "Express", "Flask", "Laravel"],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the default port for HTTPS?",
+    "options": ["80", "22", "443", "3306"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is a 'for loop' used for?",
+    "options": [
+      "To create functions",
+      "To perform repetitive tasks",
+      "To handle errors",
+      "To define classes"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the main purpose of Docker?",
+    "options": [
+      "To manage databases",
+      "To create virtual machines",
+      "To create and run containers",
+      "To deploy code to production"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which data structure uses FIFO (First In, First Out)?",
+    "options": ["Stack", "Queue", "Array", "Tree"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is not a JavaScript data type?",
+    "options": ["String", "Boolean", "Integer", "Object"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": ["font-color", "text-color", "color", "background-color"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the output of 2 ** 3 in Python?",
+    "options": ["6", "8", "9", "12"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the file extension for JavaScript files?",
+    "options": [".java", ".js", ".jsx", ".jss"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which HTTP method is used to retrieve data from a server?",
+    "options": ["POST", "GET", "PUT", "DELETE"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is not a primitive data type in JavaScript?",
+    "options": ["Number", "String", "Undefined", "Array"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the primary use of Python's 'Pandas' library?",
+    "options": [
+      "Machine learning",
+      "Data manipulation and analysis",
+      "Web development",
+      "Image processing"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What does the 'break' keyword do in a loop?",
+    "options": [
+      "Ends the loop immediately",
+      "Skips the current iteration",
+      "Restarts the loop",
+      "Adds a pause in the loop"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of these is not a type of database relationship?",
+    "options": ["One-to-One", "One-to-Many", "Many-to-Many", "One-to-Zero"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": ["200", "403", "404", "500"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which tool is commonly used for front-end testing?",
+    "options": ["Jest", "Mocha", "Selenium", "Cypress"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What does the 'inline' CSS property do?",
+    "options": [
+      "Centers the text",
+      "Makes an element flow with the text",
+      "Adds a border",
+      "Creates a new block-level element"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is not a Python framework?",
+    "options": ["Django", "Flask", "Spring", "FastAPI"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is a 'hotfix' in software development?",
+    "options": [
+      "A major release",
+      "An urgent fix for a bug",
+      "A performance improvement",
+      "A user interface update"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of these is not a Git command?",
+    "options": ["git add", "git commit", "git push", "git deploy"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What does 'CRUD' stand for?",
+    "options": [
+      "Create, Retrieve, Update, Delete",
+      "Create, Run, Upload, Download",
+      "Code, Review, Upload, Deploy",
+      "Cache, Read, Upload, Delete"
+    ],
+    "correct_answer": 0
+  }
+]

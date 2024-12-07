@@ -1,4 +1,4 @@
-import Navigation from "@/components/Navigation/Navigation";
+import Navigation from "@/app/components/Navigation/Navigation";
 import "./globals.css";
 
 export const metadata = {
