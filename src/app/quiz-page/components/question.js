@@ -1,3 +1,5 @@
+// src/app/quiz-page/components/question.js
+
 "use client";
 
 import { useEffect, useState } from "react";

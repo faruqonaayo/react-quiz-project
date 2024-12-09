@@ -1,3 +1,5 @@
+// src/app/components/Loader/Loader.js
+
 import "./Loader.css";
 
 export default function Loader() {

@@ -1,3 +1,5 @@
+// src/app/contexts/user-context.js
+
 "use client";
 
 const { createContext, useState, useContext } = require("react");

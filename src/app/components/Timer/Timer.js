@@ -1,9 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-
-
-import "./Timer.css"
+import "./Timer.css";
 
 export default function Timer({ limit, onsetLimit, onTimeOutFunc }) {
   useEffect(() => {
@@ -17,5 +15,9 @@ export default function Timer({ limit, onsetLimit, onTimeOutFunc }) {
     }, 1000);
   }, [limit, onsetLimit, onTimeOutFunc]);
 
-  return <label className="timer">{limit} seconds left</label>;
+  return (
+    <label className="timer">
+      {limit === 0 ? "Time Out" : `${limit} seconds left`}
+    </label>
+  );
 }

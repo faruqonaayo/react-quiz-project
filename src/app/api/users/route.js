@@ -1,3 +1,5 @@
+// src/app/api/users/route.js
+
 import connectToDb from "../../../../lib/mongo";
 import User from "../../../../models/user";
 import { NextResponse } from "next/server";
@@ -5,7 +7,6 @@ import { NextResponse } from "next/server";
 export async function PUT(req) {
   try {
     await connectToDb();
-
     const user = await req.json();
 
     const newUser = new User({
@@ -22,5 +23,9 @@ export async function PUT(req) {
     });
   } catch (error) {
     console.log(error);
+    return NextResponse.json({
+      message: "Failed to add user",
+      statusCode: 500,
+    });
   }
 }

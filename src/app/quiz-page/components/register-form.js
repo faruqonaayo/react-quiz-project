@@ -1,3 +1,5 @@
+// src/app/quiz-page/components/register-form.js
+
 "use client";
 
 import { useReducer } from "react";
@@ -22,9 +24,7 @@ function reducer(state, action) {
 
 export default function RegisterForm({ onSubmitFunc }) {
   const { setUser } = useUser();
-
   const [state, dispatch] = useReducer(reducer, initialState);
-
   const { name, experience } = state;
 
   function handleFormSubmit(e) {
@@ -62,7 +62,7 @@ export default function RegisterForm({ onSubmitFunc }) {
           }
         />
       </div>
-      <button className="btn">Ready</button>
+      <button className="btn start-btn">Start</button>
     </form>
   );
 }

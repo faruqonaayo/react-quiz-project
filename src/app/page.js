@@ -1,3 +1,5 @@
+// src/app/page.js
+
 import Link from "next/link";
 
 import "./intro-page.css";
